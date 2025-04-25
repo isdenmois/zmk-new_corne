@@ -53,7 +53,7 @@ ZMK_HOLD_TAP(hmr,
 
 &mmv {
     time-to-max-speed-ms = <500>;
-    acceleration-exponent = <1>;
+    acceleration-exponent = <3>;
     trigger-period-ms = <16>;
 };
 
